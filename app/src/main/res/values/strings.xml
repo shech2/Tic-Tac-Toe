@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstTaskAndroid</string>
+    <string name="homeTile">Tic Tac Toe</string>
+    <string name="playButton">Play</string>
+    <string name="PlayerSetupTitle">Enter your name</string>
+    <string name="Label1">Player1</string>
+    <string name="Label2">Player2</string>
+    <string name="SubmitButton">Lets play!</string>
+    <string name="NameHint">Enter your name</string>
+    <string name="PlayAgainButton">Play Again</string>
+    <string name="homeButton">Home</string>
+
+</resources>
